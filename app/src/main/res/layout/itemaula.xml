@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:padding="20dp"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/nome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:fontFamily="sans-serif"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/textcolor"
+        android:text="Joao Pessoa"/>
+
+
+
+    <TextView
+        android:id="@+id/data"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:fontFamily="sans-serif"
+        android:textColor="@color/textcolor"
+        android:text="22-11-2000"/>
+
+    <TextView
+        android:id="@+id/sumario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:fontFamily="sans-serif"
+        android:textColor="@color/textcolor"
+        android:text="Paragem do tráfego que venha de frentesbdhabdadasjd bhda"/>
+    <TextView
+        android:id="@+id/treferencia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:fontFamily="sans-serif"
+        android:textColor="@color/textcolor"
+        android:text="Paragem do tráfego que venha de frentesbdhabdadasjd bhda"/>
+
+</LinearLayout>

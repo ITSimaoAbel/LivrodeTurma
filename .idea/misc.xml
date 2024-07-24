@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/drawable/button_style.xml" value="0.1945" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/drawable/ic_baseline_all_inbox_24.xml" value="0.129" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.129" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.129" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/activity_login.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/activity_menu_adm.xml" value="0.25" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/activity_menu_aluno.xml" value="0.1" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/activity_menu_professor.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/activity_registrar_aluno.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/activity_registrar_ano_lectivo.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/activity_registrar_aula.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/activity_registrar_disciplina.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/activity_registrar_professor.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/fragement_registraranoletivo.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/fragment_registraraluno.xml" value="0.1" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/fragment_registraraulas.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/fragment_registrardisciplina.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/fragment_registrarprofessor.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/fragment_turma.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/header_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/layout/itemaula.xml" value="0.1" />
+        <entry key="..\:/Users/Elsa Tlhemo/AndroidStudioProjects/LivrodeTurma/app/src/main/res/menu/menu_drawer.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

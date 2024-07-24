@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/aulas"
+        android:title="Aulas"
+        android:icon="@drawable/ic_baseline_book_24"/>
+    <item
+        android:id="@+id/anolectivo"
+        android:title="Ano Lectivo"
+        android:icon="@drawable/ic_baseline_add_box_24"/>
+    <!--item
+        android:id="@+id/turma"
+        android:title="Turma"
+        android:icon="@drawable/ic_baseline_all_inbox_24"/-->
+    <item
+        android:id="@+id/disciplina"
+        android:title="Disciplina"
+        android:icon="@drawable/ic_baseline_menu_book_24"/>
+    <item
+        android:id="@+id/professores"
+        android:title="Professores"
+        android:icon="@drawable/ic_baseline_people_24"/>
+    <item
+        android:id="@+id/alunos"
+        android:title="Alunos"
+        android:icon="@drawable/ic_baseline_people_24"/>
+    <item
+        android:id="@+id/logout"
+        android:title="Sair"
+        android:icon="@drawable/ic_baseline_login_24"/>
+</menu>
